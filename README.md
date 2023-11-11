@@ -23,7 +23,8 @@ https://www.mdpi.com/2072-4292/14/14/3446
 
 ## Memory Used
 
-memory = \frac{N_{para}\times 4}{1024^2}
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/9af5bfcb-d0ec-41c6-950b-a535f74741f6)
+
 
 VGG16 512.2258453369141 MB
 GoogleNet 21.377578735351562 MB
