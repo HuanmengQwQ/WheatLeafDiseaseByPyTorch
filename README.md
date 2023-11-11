@@ -37,3 +37,21 @@ MobilenetV3Large 16.238388061523438MB
 
 60% train,20% val,20% test before run WheatLeafDisease_Delineation.py
 
+VGG16
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/992b1131-6f1e-4e93-8909-ca7730db3273)
+
+ResNet50
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/4fcddfa4-d1c8-4f67-9e15-5d0008a1b5ed)
+
+AlexNet
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/e145401d-027a-447f-82e1-d37d98fdad2a)
+
+DenseNet121
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/f1400880-1115-4dbe-867c-a27a72f778e5)
+
+EfficentNet_b6
+![image](https://github.com/HuanmengQwQ/WheatLeafDiseaseByPyTorch/assets/53703425/374ca0c6-a28c-4978-8ec2-3c9d6efbbe51)
+
+
+
+
